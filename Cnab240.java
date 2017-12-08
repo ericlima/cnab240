@@ -1,4 +1,4 @@
-package br.com.iurd.cnab;
+package br.com.cnab;
 
 import java.math.BigDecimal;
 
